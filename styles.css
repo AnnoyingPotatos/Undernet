@@ -1,7 +1,3 @@
-body {
-  background-color: black;
-}
-
 @font-face {
   font-family: monsterFriendBack;
   src: url('assets/fonts/MonsterFriend2B.otf');
@@ -10,4 +6,16 @@ body {
 @font-face {
   font-family: determinationMono;
   src: url('assets/fonts/DeterminationMonoWeb.woff');
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: monsterFriendBack;
+}
+
+p {
+  font-family: determinationMono;
 }
