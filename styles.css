@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 @fontface {
   font-family: 'monsterFriend2B';
   src: url('/assets/fonts/MonsterFriend2B.otf');
