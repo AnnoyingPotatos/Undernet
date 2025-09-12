@@ -16,9 +16,10 @@ div {
  position: relative;
 }
 
-#title {
+#titleBack {
   font-family: monsterFriendBack;
   text-align: center;
+  opacity: 0.5;
 }
 
 p {
