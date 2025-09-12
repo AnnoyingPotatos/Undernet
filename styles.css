@@ -6,3 +6,8 @@ body {
   font-family: monsterFriendBack;
   src: url('assets/fonts/MonsterFriend2B.otf');
 }
+
+@font-face {
+  font-family: determinationMono;
+  src: url('assets/fonts/DeterminationMonoWeb.woff');
+}
