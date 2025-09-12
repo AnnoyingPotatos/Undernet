@@ -13,7 +13,8 @@ body {
 }
 
 div {
- position: relative;
+  position: relative;
+  opacity: 0.5;
 }
 
 #title {
