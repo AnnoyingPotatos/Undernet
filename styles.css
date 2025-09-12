@@ -12,8 +12,13 @@ body {
   background-color: black;
 }
 
+div {
+ position: relative;
+}
+
 #title {
   font-family: monsterFriendBack;
+  position: absoulte;
 }
 
 p {
