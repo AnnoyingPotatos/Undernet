@@ -1,5 +1,3 @@
-@import url(https://db.onlinewebfonts.com/c/aaee46f857ee8d51f395c4fba0a42a1e?family=Monster+Friend+Back);
-
 @font-face {
   font-family: monsterFriendBack;
   src: url('ttps://db.onlinewebfonts.com/t/aaee46f857ee8d51f395c4fba0a42a1e.woff');
@@ -15,7 +13,7 @@ body {
 }
 
 h1 {
-  font-family: Monster Friend Back;
+  font-family: monsterFriendBack;
 }
 
 p {
