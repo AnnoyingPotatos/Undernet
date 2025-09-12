@@ -3,6 +3,6 @@ body {
 }
 
 @font-face {
-  font-family: monsterFriend2B;
-  src: url(assets/fonts/MonsterFriend2B.otf);
+  font-family: monsterFriendBack;
+  src: url(/assets/fonts/MonsterFriend2B.otf);
 }
