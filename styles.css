@@ -19,6 +19,7 @@ div {
 #title {
   font-family: monsterFriendBack;
   position: absoulte;
+  right: 500px;
 }
 
 p {
