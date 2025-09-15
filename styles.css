@@ -27,11 +27,13 @@ div {
   postion: absolute;
   text-align: center;
   opacity: 0.5;
+  color: white;
 }
 
 #titleHeart {
   font-family: monsterFriendCenter;
   text-align: center;
+  color: #ff0000;
 }
 
 p {
