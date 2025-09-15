@@ -24,9 +24,14 @@ div {
 
 #title {
   font-family: monsterFriendBack;
-  postion: absoluet;
+  postion: absolute;
   text-align: center;
   opacity: 0.5;
+}
+
+#titleHeart {
+  font-family: monsterFriendCenter;
+  text-align: center;
 }
 
 p {
