@@ -8,6 +8,11 @@
   src: url('assets/fonts/DeterminationMonoWeb.woff');
 }
 
+@font-face {
+ font-family: monsterFriendCenter;
+  src: url('assets/fonts/');
+}
+
 body {
   background-color: black;
 }
@@ -19,6 +24,7 @@ div {
 
 #title {
   font-family: monsterFriendBack;
+  postion: absoluet;
   text-align: center;
   opacity: 0.5;
 }
