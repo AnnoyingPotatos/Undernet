@@ -31,7 +31,7 @@ div {
 #titleHeart {
   font-family: monsterFriendCenter;
   text-align: center;
-  position: relative;
+  /* position: relative; */
   top: 0;
 }
 
